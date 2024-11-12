@@ -1,0 +1,24 @@
+.min {
+    letter-spacing: 1.5rem;
+}
+
+.major {
+    padding-top: 90px;
+    letter-spacing: 1.4rem;
+}
+
+#landing div {
+    max-width: 164px;
+    min-height: 82px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section2 {
+    padding-top: 150px;
+}
+
+input[type="submit"] {
+    margin-left: -4px;
+}
